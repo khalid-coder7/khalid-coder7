@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @khalid-coder7
-- 👀 I’m interested in science and technology
-- 🌱 I’m currently learning how to code
-- 📫 How to reach me: khalidashraf022004@gmail.com
+# 👋 Hi, I’m Khalid Mohamed
+
+🎓 I'm a Mechatronics and Robotics Engineering student at the University of Alexandria  
+🧠 A physics and mathematics enthusiast — passionate about understanding the universe through theory, simulation, and code  
+💻 Currently exploring nonlinear control theory, estimation, and computational physics  
+
+---
+
+## 🌐 Let's Connect
+- 📫 es-khaled.ashraf2026@alexu.edu.eg  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/khalid-mohamed-431b76230/)  
+- 🎬 [YouTube Channel](https://youtube.com/yourchannel) *(if public)*  
+
+---
+
+*“The laws of physics are the canvas. Code is my brush.”*
+
 
 <!---
 khalid-coder7/khalid-coder7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
