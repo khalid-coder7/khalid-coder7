@@ -9,7 +9,7 @@
 ## 🌐 Let's Connect
 - 📫 es-khaled.ashraf2026@alexu.edu.eg  
 - 🌍 [LinkedIn](https://www.linkedin.com/in/khalid-mohamed-431b76230/)  
-- 🎬 [YouTube Channel](https://youtube.com/@khalidonian) 
+- 🎬 [YouTube – Khalidonian](https://youtube.com/@khalidonian) 
 
 ---
 
