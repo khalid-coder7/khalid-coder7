@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Khalid Mohamed
+# 👋 Hi, I’m Khalid A. Mohamed
 
 🎓 I'm a Mechatronics and Robotics Engineering student at the University of Alexandria  
 🧠 A physics and mathematics enthusiast — passionate about understanding the universe through theory, simulation, and code  
