@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Khalid A. Mohamed
 
-🎓 I'm a Mechatronics and Robotics Engineering student at the University of Alexandria  
-🧠 A physics and mathematics enthusiast — passionate about understanding the universe through theory, simulation, and code  
-💻 Currently exploring nonlinear control theory, estimation, and computational physics  
+🎓 Mathematics student transitioning from Mechatronics & Robotics Engineering at Alexandria University
+🧠 Physics & mathematics enthusiast — interested in mathematical physics, theory, and interdisciplinary research
+💻 Exploring nonlinear control theory, estimation, statistical learning, and computational physics
 
 ---
 
