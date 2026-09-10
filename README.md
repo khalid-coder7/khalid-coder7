@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Khalid A. Mohamed
 
-🎓 Mathematics student transitioning from Mechatronics & Robotics Engineering at Alexandria University
-🧠 Physics & mathematics enthusiast — interested in mathematical physics, theory, and interdisciplinary research
+🎓 Mathematics student transitioning from Mechatronics & Robotics Engineering at Alexandria University\\
+🧠 Physics & mathematics enthusiast — interested in mathematical physics, theory, and interdisciplinary research\\
 💻 Exploring nonlinear control theory, estimation, statistical learning, and computational physics
 
 ---
